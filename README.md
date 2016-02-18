@@ -16,3 +16,15 @@ need todo
 7、hotfix
 
 8、hukai.me
+
+如何窃听http？
+Charles研究
+pgp 完美隐私
+spdy
+websocket
+http2.0
+
+dagger+retrofit+rxJava
+classyShark
+
+《枪炮、病菌与钢铁》
