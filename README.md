@@ -3,7 +3,7 @@ need todo
 
 ~~1、如何通过gradle构建多个子项目的工程？~~
 
-2、gradlew :main-plugin-host:build 这种形式的学习？
+~~2、gradlew :main-plugin-host:build 这种形式的学习？~~
 
 3、LoganSquare
 
