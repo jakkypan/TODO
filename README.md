@@ -1,7 +1,7 @@
 # TODO
 need todo
 
-<font color='grey'> 1、如何通过gradle构建多个子项目的工程？</font>
+__1、如何通过gradle构建多个子项目的工程？__
 
 2、gradlew :main-plugin-host:build 这种形式的学习？
 
